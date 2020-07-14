@@ -1,5 +1,5 @@
 <?php
-$link = mysqli_connect("localhost", "root", "nichinuelon12", "record_company");
+$link = mysqli_connect("localhost", "root", "...", "record_company");
     if( mysqli_connect_error()) {
         die ("error hai");
     }
